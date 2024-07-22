@@ -34,7 +34,7 @@ Segue os codigos  das classes
 
 
 * ## Resultado do metodo *Aluno Create*
-  ![image](https://github.com/user-attachments/assets/53fa8ba0-b1ca-4379-849c-568f3a60b141)
+![image](https://github.com/user-attachments/assets/53fa8ba0-b1ca-4379-849c-568f3a60b141)
 
 * ## Resultado do metodo *Load from ID* 
 ![image](https://github.com/user-attachments/assets/088bcd40-7566-4864-b00a-802076731e5e)
@@ -45,6 +45,9 @@ Segue os codigos  das classes
 ![image](https://github.com/user-attachments/assets/dda729c6-23a6-4c78-b38d-5e5a15ecf6ea)
 
 * ## Resultado do metedo *Delete*
+![image](https://github.com/user-attachments/assets/fd6e06b8-6901-4428-b38f-66c2a374252e)
+
+
 - Observa-se que após eu realizar o metedo delete ,possuo apenas 5 alunos.
 
 ![image](https://github.com/user-attachments/assets/4b7e59f5-cb99-4887-9099-fc3e6a609ce1)
