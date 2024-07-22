@@ -23,28 +23,28 @@ Segue os codigos  das classes
 ![image](https://github.com/user-attachments/assets/d50716a1-bd55-4fde-a3cc-d987720bdfc1)
 
 
-## Resultado ->
+# Resultado ->
 
 ![image](https://github.com/user-attachments/assets/4ba2af10-925e-4665-8847-d65569414bf3)
 
 ![image](https://github.com/user-attachments/assets/5c20d641-f5fa-488c-a201-01aef2cf4f13)
 
-* Como a tela ficou : 
+* ## Como a tela ficou : 
 ![image](https://github.com/user-attachments/assets/37ab50c4-9185-454d-a114-b84fc38089bd)
 
 
-* Resultado do metodo *Aluno Create*
+* ## Resultado do metodo *Aluno Create*
   ![image](https://github.com/user-attachments/assets/53fa8ba0-b1ca-4379-849c-568f3a60b141)
 
-*Resultado do metodo *Load from ID* 
+* ## Resultado do metodo *Load from ID* 
 ![image](https://github.com/user-attachments/assets/088bcd40-7566-4864-b00a-802076731e5e)
 
-*Resultado do metodo *lista de alunos*
+* ## Resultado do metodo *lista de alunos*
 - Observa-se que eu possuo 6 alunos na lista.
 
 ![image](https://github.com/user-attachments/assets/dda729c6-23a6-4c78-b38d-5e5a15ecf6ea)
 
-*Resultado do metedo *Delete*
+* ## Resultado do metedo *Delete*
 - Observa-se que após eu realizar o metedo delete ,possuo apenas 5 alunos.
 
 ![image](https://github.com/user-attachments/assets/4b7e59f5-cb99-4887-9099-fc3e6a609ce1)
