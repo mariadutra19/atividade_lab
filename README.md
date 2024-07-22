@@ -1,5 +1,5 @@
 informaçoes sobre o projeto : 
-README.TXT
+https://github.com/mariadutra19/atividade_lab/blob/main/README.TXT
 
 
 # CODIGOS : 
