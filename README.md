@@ -1,6 +1,3 @@
-informaçoes sobre o projeto : 
-https://github.com/mariadutra19/atividade_lab/blob/main/README.TXT
-
 
 # CODIGOS : 
 Segue os codigos  das classes 
