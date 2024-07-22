@@ -1,3 +1,6 @@
+informaçoes sobre o projeto : 
+README.TXT
+
 
 # CODIGOS : 
 Segue os codigos  das classes 
